@@ -1,22 +1,22 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/shaokiat/shaokiat/blob/main/gifs/Hi.gif" width="30"></h2>
-<a href="https://linkedin.com/in/shaokiat" target="_blank">
+<a href="https://linkedin.com/in/shaokiat" target="_blank" rel="noreferrer noopener">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaokiat&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Shao Kiat Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaokiat&include_all_commits=true&count_private=true&show_icons=true&line_height=30&text_color=D3D3D3&bg_color=0A0A0A" alt="Shao Kiat Github Stats">
 <br />
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaokiat&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaokiat&layout=compact&theme=dark&bg_color=0A0A0A" alt="Shao Kiat Top Languages"/>
 <br />
 <br />
 <br />
 
 </div>
-<!-- 
+
 <div align="center">
 
 ## Tech Stack
@@ -38,4 +38,4 @@
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/shaokiat/shaokiat/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
 <br />
 
-</div> -->
+</div>
