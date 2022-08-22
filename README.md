@@ -6,10 +6,6 @@
 <a href="https://linkedin.com/in/shaokiat" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<br />
-<br />
-
-I'm currently based in **[Singapore](https://www.google.com/maps/place/Singapore)**
 
 <br />
 
@@ -23,7 +19,7 @@ I'm currently based in **[Singapore](https://www.google.com/maps/place/Singapore
 <br />
 
 </div>
-
+<!-- 
 <div align="center">
 
 ## Tech Stack
@@ -45,4 +41,4 @@ I'm currently based in **[Singapore](https://www.google.com/maps/place/Singapore
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/shaokiat/shaokiat/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
 <br />
 
-</div>
+</div> -->
