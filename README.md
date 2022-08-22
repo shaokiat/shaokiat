@@ -32,7 +32,7 @@ I'm currently based in **[Singapore](https://www.google.com/maps/place/Singapore
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/shaokiat/shaokiat/blob/main/svgs/html.svg" alt="html"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/shaokiat/shaokiat/blob/main/svgs/css.svg" alt="css"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/shaokiat/shaokiat/blob/main/svgs/javascript.svg" alt="javascript"></a>
-
+<a margin="10" href="https://www.typescriptlang.org/" target="_blank"><img margin="10px" height="40" src="https://github.com/shaokiat/shaokiat/blob/main/svgs/typescript.svg" alt="typescript"></a>
 <a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/shaokiat/shaokiat/blob/main/svgs/tailwind.svg" alt="tailwind"></a>
 <br />
 <br />
