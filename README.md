@@ -5,15 +5,15 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shaokiat/" target="_blank">
+  <a href="https://www.linkedin.com/in/shaokiat/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-shaokiat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://shaokiat.github.io/shaokiat-portfolio/" target="_blank">
+  <a href="https://shaokiat.github.io/shaokiat-portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Website-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="mailto:shaokiat@gmail.com">
+  <a href="mailto:shaokiat@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-shaokiat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -25,9 +25,9 @@
 ## About Me
 
 - 🤖 Deep in agentic systems, RAG pipelines & LLM optimization
-- ✍️ Writing about AI at [Shao Kiat's Blog](https://shaokiat.github.io/shaokiat-blog/blog/)
+- ✍️ Writing about AI at <a href="https://shaokiat.github.io/shaokiat-blog/blog/" target="_blank" rel="noopener noreferrer">Shao Kiat's Blog</a>
 - 🌏 Teaching responsible AI literacy in Singapore
-- ☁️ ![GCP Professional Architect](https://img.shields.io/badge/GCP_Professional_Cloud_Architect-In_Progress-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- ☁️ GCP Professional Cloud Architect (In Progress)
 
 ---
 
