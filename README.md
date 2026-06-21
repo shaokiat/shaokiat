@@ -27,7 +27,7 @@
 - 🤖 Deep in agentic systems, RAG pipelines & LLM optimization
 - ✍️ Writing about AI at <a href="https://shaokiat.github.io/shaokiat-blog/blog/" target="_blank" rel="noopener noreferrer">Shao Kiat's Blog</a>
 - 🌏 Teaching responsible AI literacy in Singapore
-- ☁️ GCP Professional Cloud Architect (In Progress)
+- ☁️ GCP Professional Cloud Architect
 
 ---
 
