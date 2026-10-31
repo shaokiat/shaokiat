@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" role="img" aria-label="How I take a model to production, in four steps. Discover: find the real problem in the existing process. Prototype: a model engineers can question. Productionize: validate against real failures, then deploy. Adopt: engineers act on its alerts.">
+  <style>
+    .t { font: 700 25px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e6edf3; }
+    .p { font: 400 19px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .pulse { animation: run 5s ease-in-out infinite; }
+    @keyframes run { 0% { transform: translateX(150px); opacity: 0; } 8% { opacity: 1; } 92% { opacity: 1; } 100% { transform: translateX(1050px); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .hold { opacity: 1 !important; stroke-dashoffset: 0 !important; } }
+    @media (prefers-reduced-motion: reduce) { .pulse { display: none; } }
+  </style>
+  <defs><linearGradient id="g"><stop offset="0" stop-color="#58a6ff"/><stop offset=".33" stop-color="#a78bfa"/><stop offset=".66" stop-color="#7ee787"/><stop offset="1" stop-color="#ffb454"/></linearGradient></defs>
+  <rect width="1200" height="200" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <rect x="150" y="54.5" width="900" height="3" fill="url(#g)"/>
+  <circle cx="150" cy="56" r="11" fill="#58a6ff"/>
+  <text class="t" x="150" y="108" text-anchor="middle">Discover</text>
+  <text class="p" x="150" y="142" text-anchor="middle">Find the real problem</text>
+  <text class="p" x="150" y="168" text-anchor="middle">in the existing process</text>
+  <circle cx="450" cy="56" r="11" fill="#a78bfa"/>
+  <text class="t" x="450" y="108" text-anchor="middle">Prototype</text>
+  <text class="p" x="450" y="142" text-anchor="middle">A model engineers</text>
+  <text class="p" x="450" y="168" text-anchor="middle">can question</text>
+  <circle cx="750" cy="56" r="11" fill="#7ee787"/>
+  <text class="t" x="750" y="108" text-anchor="middle">Productionize</text>
+  <text class="p" x="750" y="142" text-anchor="middle">Validate against real</text>
+  <text class="p" x="750" y="168" text-anchor="middle">failures, then deploy</text>
+  <circle cx="1050" cy="56" r="11" fill="#ffb454"/>
+  <text class="t" x="1050" y="108" text-anchor="middle">Adopt</text>
+  <text class="p" x="1050" y="142" text-anchor="middle">Engineers act on</text>
+  <text class="p" x="1050" y="168" text-anchor="middle">its alerts</text>
+  <circle class="pulse" cy="56" r="6" fill="#fff"/>
+</svg>

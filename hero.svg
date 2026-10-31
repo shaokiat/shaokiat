@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Shao Kiat. Predictive AI in the field, moving to forward deployed LLMs and agents. A sensor trace crosses its alert threshold.">
+  <style>
+    .name { font: 700 72px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e6edf3; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .tag { font-size: 24px; fill: #8b949e; }
+    .tag b { fill: #58a6ff; font-weight: 600; }
+    .small { font-size: 15px; fill: #6e7681; letter-spacing: 1px; }
+    .alert { font-size: 17px; font-weight: 700; fill: #ffb454; letter-spacing: 1px; }
+    .trace { stroke-dasharray: 1; animation: draw 8s ease-out infinite; }
+    .marker { animation: reveal 8s linear infinite; }
+    .ping { transform-origin: 1000px 165px; animation: ping 1.6s ease-out infinite; }
+    @keyframes draw { 0% { stroke-dashoffset: 1; } 60%, 100% { stroke-dashoffset: 0; } }
+    @keyframes reveal { 0%, 48% { opacity: 0; } 52%, 100% { opacity: 1; } }
+    @keyframes ping { 0% { transform: scale(.4); opacity: .9; } 100% { transform: scale(2.4); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .trace, .marker, .ping { animation: none; }
+      .trace { stroke-dashoffset: 0; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity=".25"/>
+      <stop offset=".7" stop-color="#58a6ff"/>
+      <stop offset=".83" stop-color="#ffb454"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="14" fill="#0d1117"/>
+  <rect width="1200" height="340" rx="14" fill="url(#grid)" opacity=".55"/>
+
+  <text class="name" x="60" y="108">Shao Kiat</text>
+  <text class="mono tag" x="62" y="154">Predictive AI in the field <tspan fill="#58a6ff">→ forward deployed LLMs &amp; agents</tspan></text>
+
+  <line x1="0" x2="1200" y1="215" y2="215" stroke="#ffb454" stroke-opacity=".45" stroke-dasharray="6 8"/>
+  <text class="mono small" x="62" y="207">ALERT THRESHOLD</text>
+
+  <path class="trace" pathLength="1" fill="none" stroke="url(#line)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"
+        d="M0 272 L40 264 L80 278 L120 268 L160 283 L200 270 L240 262 L280 276 L320 266 L360 281 L400 271 L440 259 L480 274 L520 268 L560 284 L600 272 L640 263 L680 277 L720 269 L760 280 L800 267 L840 275 L880 258 L920 262 L950 240 L975 222 L1000 165 L1025 232 L1050 256 L1080 276 L1120 266 L1160 279 L1200 270"/>
+
+  <g class="marker">
+    <circle class="ping" cx="1000" cy="165" r="12" fill="none" stroke="#ffb454" stroke-width="2"/>
+    <circle cx="1000" cy="165" r="6" fill="#ffb454"/>
+    <text class="mono alert" x="1000" y="136" text-anchor="middle">FAULT CAUGHT</text>
+  </g>
+</svg>
